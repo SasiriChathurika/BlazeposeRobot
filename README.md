@@ -1,2 +1,2 @@
 # BlazeposeRobot
-BlazePose-based monocular camera robot controlled via laptop-Arduino serial communication. Tracks individuals using landmarks, sends commands to Arduino for motor control.
+This GitHub repository hosts a comprehensive implementation of a robot system utilizing a monocular camera for tracking and navigation. Operating on a laptop, the system establishes communication with an Arduino board via serial connection. Leveraging BlazePose landmarks detection, it efficiently tracks individuals and maneuvers towards them by issuing commands to control four motors through the Arduino board. This repository provides a structured framework and codebase for building and experimenting with similar robotic applications.
