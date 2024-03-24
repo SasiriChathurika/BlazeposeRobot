@@ -27,6 +27,7 @@ def motor_control(move_forward, turn_left, turn_right, release_all):
     #     pass
 
 
+
 # Connecting to the serial communication
 # Change the port when it is different
 arduino_board = serial.Serial('COM12', 9600)
