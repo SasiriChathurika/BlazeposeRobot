@@ -1,12 +1,13 @@
-# 🤖 BlazePoseRobot with YOLOv8: Vision-Guided Mobile Assistance 🚶‍♀️
+# 🤖BlazePoseRobot with YOLOv8: Vision-Guided Mobile Assistance🚶‍♀️
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)]
 
 ## 🎥 Video Demonstration
 
 <!-- Replace this with your video embedding code -->
-[![BlazePoseRobot Demo](http://img.youtube.com/vi/[YOUR_YOUTUBE_VIDEO_ID]/0.jpg)](http://www.youtube.com/watch?v=[YOUR_YOUTUBE_VIDEO_ID])
+[![BlazePoseRobot Demo](https://drive.google.com/file/d/17HDwnNH4M6Vy3RRwG8kHtKke7scPXhaH/view?usp=sharing)
 
 *Replace `[YOUR_YOUTUBE_VIDEO_ID]` with the actual ID of your YouTube video.  This will display a thumbnail that links to the video.*
 
