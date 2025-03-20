@@ -9,8 +9,6 @@
 <!-- Replace this with your video embedding code -->
 [![BlazePoseRobot Demo](https://drive.google.com/file/d/17HDwnNH4M6Vy3RRwG8kHtKke7scPXhaH/view?usp=sharing)
 
-*Replace `[YOUR_YOUTUBE_VIDEO_ID]` with the actual ID of your YouTube video.  This will display a thumbnail that links to the video.*
-
 ## 📃 Table of Contents
 
 *   [🌟 Overview](#-overview)
