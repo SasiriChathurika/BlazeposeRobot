@@ -6,8 +6,7 @@
 
 ## 🎥 Video Demonstration
 
-<!-- Replace this with your video embedding code -->
-[![BlazePoseRobot Demo](https://drive.google.com/file/d/17HDwnNH4M6Vy3RRwG8kHtKke7scPXhaH/view?usp=sharing)
+https://github.com/user-attachments/assets/7ac31363-c62f-479d-b636-f66e13e9089d
 
 ## 📃 Table of Contents
 
