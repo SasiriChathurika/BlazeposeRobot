@@ -210,4 +210,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-[Your Name] - [Your Email]
+Sasiri Chathurika -> sasirichathurika02@gmail.com
