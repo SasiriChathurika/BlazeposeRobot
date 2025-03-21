@@ -40,7 +40,7 @@ The system runs on a laptop and communicates with an Arduino board via a serial 
 
 *   **Real-time Human Detection:** Employs YOLOv8 for accurate and fast detection of people in the camera feed.
 *   **Pose Estimation with BlazePose:**  Extracts key body landmarks using MediaPipe BlazePose for posture analysis.
-*   **Fall Risk Detection:** Calculates joint angles and potentially integrates vibration data (as mentioned in your description, though not currently present in the code) to identify potential fall risks.  *Note: Vibration analysis needs to be implemented based on your hardware setup.*
+*   **Fall Risk Detection:** Calculates joint angles potential fall risks. 
 *   **Robot Motion Control:**  Sends commands to an Arduino board to control four motors, enabling precise movement towards the tracked person.
 *   **Serial Communication:** Establishes a reliable serial connection between the laptop and the Arduino.
 *   **Data Visualization:** Utilizes Matplotlib to generate real-time plots of joint angles, distance and person direction providing insights into the tracked person's movements and posture.
